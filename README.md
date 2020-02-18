@@ -3,6 +3,8 @@ A patch for Spark AR which resizes your rectangle to fill the window while maint
 
 Simply connect the inputs with the Device node's 'Screen Size' and 'Screen Scale' and connect to a 2D Rectangles 'Size' node.
 
+![](ExampleProject/grab.png?raw=true)
+
 ## Inputs
 • Screen Size : Vec2 from Device/Screen Size
 
